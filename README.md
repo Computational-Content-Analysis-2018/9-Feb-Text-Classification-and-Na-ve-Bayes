@@ -1,0 +1,2 @@
+# Comments on: Text Classification and Naïve Bayes
+[Manning, Christopher, Prabhakar Raghavan and Hinrich Schütze.  2008. “Text Classification and Naïve Bayes”, “Vector Space Classification,” and “Support Vector Machines.” Chapters 13-16 from Introduction to Information Retrieval: 234-320.](('http://nlp.stanford.edu/IR-book/pdf/13bayes.pdf',))
